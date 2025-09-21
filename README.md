@@ -26,7 +26,7 @@ Este é um jogo de plataforma desenvolvido com PgZero.
 
 4. Execute o jogo:
    ```bash
-   pgzrun intro.py
+   pgzrun main.py
    ```
 
 ## Screenshots
